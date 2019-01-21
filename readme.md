@@ -2,7 +2,7 @@
 
 A Kubernetes sample project for deploying Statefulset with NFS.
 
-** How to deploy: **
+## How to deploy:
 
 ```
 kubectl create -f files/nfs-statefulset-test.yaml
